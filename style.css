@@ -1,0 +1,15 @@
+body {
+    font-family: 'Shadows Into Light', cursive;
+}
+.header {
+  height: 100vh;
+  margin: 20px;
+}
+.header__img {
+  height: 100%;
+  width: 100%;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
